@@ -1,0 +1,93 @@
+		body {
+			font-family: 'Arial';
+			font-size: 14px;
+			margin-left: 0 px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			background-color: #FFF;
+		}
+
+		.kop {
+			width: 850px;
+			border-spacing: 0px;
+			margin-top: 0;
+			margin-bottom: 20px;
+		}
+
+		.tabel_isi {
+			width: 850px;
+			border-spacing: 0px;
+			margin-top: 0;
+			margin-bottom: 30px;
+		}
+
+		.logo_kop {
+			width: auto;
+			height: 100px;
+		}
+
+		.f30 {
+			font-size: 30px;
+		}
+
+		.f20 {
+			font-size: 20px;
+		}
+
+		.f15 {
+			font-size: 15px;
+		}
+
+		.tabel_data {
+			border-top-width: 1px;
+			border-right-width: 1px;
+			border-bottom-width: 1px;
+			border-left-width: 1px;
+			border-top-style: solid;
+			border-right-style: none;
+			border-bottom-style: none;
+			border-left-style: solid;
+			border-top-color: #000000;
+			border-right-color: #000000;
+			border-bottom-color: #000000;
+			border-left-color: #000000;
+		}
+
+		.tabel_data td {
+			border-top: 1px none #000000;
+			border-right: 1px solid #000000;
+			border-bottom: 1px solid #000000;
+			border-left: 1px none #000000;
+			padding-left: 4px;
+			padding-right: 4px;
+			padding-bottom: 0px;
+			padding-top: 0px;
+		}
+
+		.tabel_noborder {
+			border-top-width: 0px;
+			border-right-width: 0px;
+			border-bottom-width: 0px;
+			border-left-width: 0px;
+			border-top-style: solid;
+			border-right-style: none;
+			border-bottom-style: none;
+			border-left-style: solid;
+			border-top-color: #000000;
+			border-right-color: #000000;
+			border-bottom-color: #000000;
+			border-left-color: #000000;
+		}
+
+		.tabel_noborder td {
+			border-top: 0px none #000000;
+			border-right: 0px solid #000000;
+			border-bottom: 0px solid #000000;
+			border-left: 0px none #000000;
+			padding-left: 4px;
+			padding-right: 4px;
+			padding-bottom: 2px;
+			padding-top: 0px;
+		}
+	
