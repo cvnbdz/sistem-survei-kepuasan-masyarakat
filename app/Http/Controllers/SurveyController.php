@@ -21,7 +21,7 @@ class SurveyController extends Controller
         } else {
             $getBiodataID = request()->session()->get('biodataID');
             $pertanyaans = Pertanyaan::with('opsi_jawaban')->get();
-            dd($pertanyaans);
+            // dd($pertanyaans);
             $kategori = Kategori::get();
             $kuisioner = Kategori::get();
             // $pertanyaans = Pertanyaan::with('opsi_jawaban')->paginate(1);0
